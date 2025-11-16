@@ -7,7 +7,6 @@
 
 - **One Profile → Many Languages**: Enter once, generate cards in 80+ languages
 - **Export Ready**: Get React, HTML, or Markdown code instantly
-- **Smart Translation**: Chrome extension translates any selected text
 - **Share Anywhere**: Create shareable links for your multilingual profile
 
 ## Quick Start
