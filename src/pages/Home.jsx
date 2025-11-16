@@ -147,7 +147,6 @@ const Home = () => {
 
         {/* Row 2: Choose Card Template */}
         <div className="surface p-6 rounded-xl" id="choose-template">
-          <h2 className="text-xl font-bold mb-4">Choose Card Template</h2>
           <CardTemplateSelector 
             selectedTemplate={selectedTemplate}
             onSelectTemplate={setSelectedTemplate}
